@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    destination: /var/www/test/
+    destination: /var/www/test/Test_aws_deploy/
